@@ -1,0 +1,3 @@
+variable,category,n_unweighted,estimate,se,CI_low,CI_high,design_df,p_applicability
+sleep_trouble,No,5529,0.6990060279689474,0.013410957169579943,0.6704212494043246,0.7275908065335702,15,Descriptive proportion; hypothesis-test p-value not applicable
+sleep_trouble,Yes,5529,0.3009939720310526,0.013410957169579943,0.27240919346642983,0.3295787505956754,15,Descriptive proportion; hypothesis-test p-value not applicable

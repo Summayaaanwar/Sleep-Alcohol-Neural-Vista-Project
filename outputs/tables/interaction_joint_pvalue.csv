@@ -1,0 +1,2 @@
+test,n,numerator_df,denominator_df,p,significance,p_method
+Overall alcohol-category-by-sex interaction,3109,2,15,0.5992671898189267,NS,Design-based joint Wald F test

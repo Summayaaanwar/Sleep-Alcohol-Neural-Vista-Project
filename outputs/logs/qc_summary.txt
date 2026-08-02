@@ -1,0 +1,31 @@
+=== QC SUMMARY ===
+Cycle: 2017-2018 
+Adults N: 5856 
+
+PHQ-9 summary:
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.     NAs 
+  0.000   0.000   2.000   3.241   5.000  25.000     788 
+
+Sleep hours summary:
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.     NAs 
+  2.000   7.000   7.929   7.832   8.714  14.000      34 
+
+Alcohol user counts:
+
+  No  Yes <NA> 
+ 585 4545  726 
+
+Alcohol category counts:
+
+       Binge drinker Drinkers (non-binge)          Non-drinker                 <NA> 
+                1437                 2053                  585                 1781 
+
+Sleep trouble counts:
+
+  No  Yes <NA> 
+4269 1582    5 
+
+Daytime sleepy counts:
+
+  No  Yes <NA> 
+4327 1517   12 

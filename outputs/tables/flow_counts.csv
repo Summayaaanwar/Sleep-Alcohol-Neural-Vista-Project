@@ -1,0 +1,10 @@
+step,n
+N_adults,5856
+N_positive_MEC_weight,5533
+N_non_missing_outcome,5529
+N_non_missing_exposure,4072
+N_complete_model0,4072
+N_complete_model1,4072
+N_complete_model2,3364
+N_complete_model3,3244
+N_complete_model4,3109

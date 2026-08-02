@@ -1,0 +1,6 @@
+model,n,design_df,p_overall_alcohol,significance,p_method
+Model 0,4072,15,0.0012759796897470089,**,Design-based joint Wald F test (denominator df = PSU - strata)
+Model 1,4072,15,0.0021501204742093013,**,Design-based joint Wald F test (denominator df = PSU - strata)
+Model 2,3364,15,0.0030232477479949114,**,Design-based joint Wald F test (denominator df = PSU - strata)
+Model 3,3244,15,0.038428330067144564,*,Design-based joint Wald F test (denominator df = PSU - strata)
+Model 4,3109,15,0.13909589587361681,NS,Design-based joint Wald F test (denominator df = PSU - strata)

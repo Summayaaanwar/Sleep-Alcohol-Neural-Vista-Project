@@ -1,0 +1,4 @@
+comparison,n,log_OR,se_log_OR,OR,CI_low,CI_high,test_statistic,df_test,p,significance,p_method
+Ever drinkers without past-year binge vs lifetime abstainers,4072,0.8222934698262346,0.17824242807351862,2.275713136386902,1.556405082247599,3.327456545981668,4.613343067157209,15,3.379252169845767e-4,***,Design-based Wald t test (df = PSU - strata)
+Ever drinkers with past-year binge vs lifetime abstainers,4072,0.6365343351746772,0.19508582572274827,1.8899196882413003,1.246972658446654,2.864374293860988,3.2628425607881217,15,0.005243476637343463,**,Design-based Wald t test (df = PSU - strata)
+Ever drinkers with vs without past-year binge,4072,-0.18575913465155747,0.12816209419317595,0.8304736032072492,0.6319593717688113,1.0913461156429187,-1.4494077661649842,15,0.16780830980253952,NS,Design-based Wald t test (df = PSU - strata)

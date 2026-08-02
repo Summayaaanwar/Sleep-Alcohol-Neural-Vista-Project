@@ -1,0 +1,65 @@
+variable_1,variable_2,n,rho,p,significance,label
+drinks_per_day,drinks_per_day,3489,1,0,Not applicable,1.00
+drinks_per_day,drinking_frequency_rank,3486,0.28508066185723185,3.5238150350792804e-66,***,0.29***
+drinks_per_day,sleep_hours,3474,-0.027050024631104983,0.11092172742261099,NS,-0.03NS
+drinks_per_day,age_years,3489,-0.2558073870200148,2.9973313344473208e-53,***,-0.26***
+drinks_per_day,bmi,3451,0.03284013594981186,0.053728113225574615,NS,0.03NS
+drinks_per_day,waist_circumference,3375,0.03537357407151955,0.039888589991004426,*,0.04*
+drinks_per_day,poverty_ratio,3089,-0.13277542089971187,1.269352709405838e-13,***,-0.13***
+drinks_per_day,depression_score_no_sleep,3474,0.08027971963572018,2.1617471247523286e-6,***,0.08***
+drinking_frequency_rank,drinks_per_day,3486,0.28508066185723185,3.5238150350792804e-66,***,0.29***
+drinking_frequency_rank,drinking_frequency_rank,4541,1,0,Not applicable,1.00
+drinking_frequency_rank,sleep_hours,4518,-0.022139145630185108,0.13678335270657077,NS,-0.02NS
+drinking_frequency_rank,age_years,4541,-0.193977327967605,9.571464210227074e-40,***,-0.19***
+drinking_frequency_rank,bmi,4487,-0.07719760934804215,2.2503090384670694e-7,***,-0.08***
+drinking_frequency_rank,waist_circumference,4364,-0.0834094507394657,3.4265446945611706e-8,***,-0.08***
+drinking_frequency_rank,poverty_ratio,4010,0.15409656950746778,9.827353513867065e-23,***,0.15***
+drinking_frequency_rank,depression_score_no_sleep,4497,-0.014077907549875016,0.3452492574847221,NS,-0.01NS
+sleep_hours,drinks_per_day,3474,-0.027050024631104983,0.11092172742261099,NS,-0.03NS
+sleep_hours,drinking_frequency_rank,4518,-0.022139145630185108,0.13678335270657077,NS,-0.02NS
+sleep_hours,sleep_hours,5822,0.9999999999999999,0,Not applicable,1.00
+sleep_hours,age_years,5822,-0.013406303916693485,0.30642392021636866,NS,-0.01NS
+sleep_hours,bmi,5405,-0.06182502247961996,5.40050600514556e-6,***,-0.06***
+sleep_hours,waist_circumference,5159,-0.05417679701242608,9.891883792320035e-5,***,-0.05***
+sleep_hours,poverty_ratio,5001,-0.08089304275044057,1.0130261442979248e-8,***,-0.08***
+sleep_hours,depression_score_no_sleep,5043,-0.008323967608840863,0.5545320603519664,NS,-0.01NS
+age_years,drinks_per_day,3489,-0.2558073870200148,2.9973313344473208e-53,***,-0.26***
+age_years,drinking_frequency_rank,4541,-0.193977327967605,9.571464210227074e-40,***,-0.19***
+age_years,sleep_hours,5822,-0.013406303916693485,0.30642392021636866,NS,-0.01NS
+age_years,age_years,5856,1,0,Not applicable,1.00
+age_years,bmi,5434,0.06050310741487702,8.078614007994132e-6,***,0.06***
+age_years,waist_circumference,5184,0.2222453547940684,4.975703195948508e-59,***,0.22***
+age_years,poverty_ratio,5021,0.09221118640171272,5.8973113149098e-11,***,0.09***
+age_years,depression_score_no_sleep,5068,-0.053279447737092867,1.4781164027401957e-4,***,-0.05***
+bmi,drinks_per_day,3451,0.03284013594981186,0.053728113225574615,NS,0.03NS
+bmi,drinking_frequency_rank,4487,-0.07719760934804215,2.2503090384670694e-7,***,-0.08***
+bmi,sleep_hours,5405,-0.06182502247961996,5.40050600514556e-6,***,-0.06***
+bmi,age_years,5434,0.06050310741487702,8.078614007994132e-6,***,0.06***
+bmi,bmi,5434,1,0,Not applicable,1.00
+bmi,waist_circumference,5175,0.9105407733594675,0,***,0.91***
+bmi,poverty_ratio,4716,-0.0231946616375823,0.11124047654376451,NS,-0.02NS
+bmi,depression_score_no_sleep,5010,0.10276597487673264,3.0672649313024067e-13,***,0.10***
+waist_circumference,drinks_per_day,3375,0.03537357407151955,0.039888589991004426,*,0.04*
+waist_circumference,drinking_frequency_rank,4364,-0.0834094507394657,3.4265446945611706e-8,***,-0.08***
+waist_circumference,sleep_hours,5159,-0.05417679701242608,9.891883792320035e-5,***,-0.05***
+waist_circumference,age_years,5184,0.2222453547940684,4.975703195948508e-59,***,0.22***
+waist_circumference,bmi,5175,0.9105407733594675,0,***,0.91***
+waist_circumference,waist_circumference,5184,1,0,Not applicable,1.00
+waist_circumference,poverty_ratio,4528,-0.023257344996156105,0.117635452092166,NS,-0.02NS
+waist_circumference,depression_score_no_sleep,4862,0.08904934531488637,4.971558214603761e-10,***,0.09***
+poverty_ratio,drinks_per_day,3089,-0.13277542089971187,1.269352709405838e-13,***,-0.13***
+poverty_ratio,drinking_frequency_rank,4010,0.15409656950746778,9.827353513867065e-23,***,0.15***
+poverty_ratio,sleep_hours,5001,-0.08089304275044057,1.0130261442979248e-8,***,-0.08***
+poverty_ratio,age_years,5021,0.09221118640171272,5.8973113149098e-11,***,0.09***
+poverty_ratio,bmi,4716,-0.0231946616375823,0.11124047654376451,NS,-0.02NS
+poverty_ratio,waist_circumference,4528,-0.023257344996156105,0.117635452092166,NS,-0.02NS
+poverty_ratio,poverty_ratio,5021,1,0,Not applicable,1.00
+poverty_ratio,depression_score_no_sleep,4438,-0.17362032944328085,2.2511424096189662e-31,***,-0.17***
+depression_score_no_sleep,drinks_per_day,3474,0.08027971963572018,2.1617471247523286e-6,***,0.08***
+depression_score_no_sleep,drinking_frequency_rank,4497,-0.014077907549875016,0.3452492574847221,NS,-0.01NS
+depression_score_no_sleep,sleep_hours,5043,-0.008323967608840863,0.5545320603519664,NS,-0.01NS
+depression_score_no_sleep,age_years,5068,-0.053279447737092867,1.4781164027401957e-4,***,-0.05***
+depression_score_no_sleep,bmi,5010,0.10276597487673264,3.0672649313024067e-13,***,0.10***
+depression_score_no_sleep,waist_circumference,4862,0.08904934531488637,4.971558214603761e-10,***,0.09***
+depression_score_no_sleep,poverty_ratio,4438,-0.17362032944328085,2.2511424096189662e-31,***,-0.17***
+depression_score_no_sleep,depression_score_no_sleep,5068,0.9999999999999999,0,Not applicable,1.00

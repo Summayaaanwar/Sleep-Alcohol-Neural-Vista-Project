@@ -1,0 +1,4 @@
+variable,category,n_unweighted,estimate,se,CI_low,CI_high,design_df,p_applicability
+alcohol_category,Non-drinker,4075,0.0965420517523049,0.0058321317756911085,0.08411115712936337,0.10897294637524643,15,Descriptive proportion; hypothesis-test p-value not applicable
+alcohol_category,Drinkers (non-binge),4075,0.4974524275598058,0.013495633613854894,0.46868716542651356,0.526217689693098,15,Descriptive proportion; hypothesis-test p-value not applicable
+alcohol_category,Binge drinker,4075,0.4060055206878893,0.014057349904494346,0.3760429886221801,0.4359680527535985,15,Descriptive proportion; hypothesis-test p-value not applicable
